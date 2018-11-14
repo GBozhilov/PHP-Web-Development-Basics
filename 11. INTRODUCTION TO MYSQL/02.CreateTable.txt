@@ -1,0 +1,6 @@
+CREATE TABLE `students` (
+	`PRIMARY_ID` INT(11) NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY (`PRIMARY_ID`)
+)
+COMMENT='Info about students'
+COLLATE='utf8_general_ci';
